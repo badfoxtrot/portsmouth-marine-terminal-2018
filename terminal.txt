@@ -1,0 +1,17 @@
+Portsmouth Marine Terminal Log
+
+Day: 1
+Yard Kontainer Count: 20
+Ships Generated: 2
+Ship 303 arrives.
+Ship 187 arrives.
+Semi delivered a kontainer to Yard.
+Docking - Ship 303
+Docking - Ship 187
+Kontainer 1009 loaded to train.
+Kontainer 1007 loaded to train.
+Kontainer 292 loaded to train.
+Kontainer 232 loaded to train.
+Kontainer 389 loaded to train.
+------------------------------
+User closed program.
